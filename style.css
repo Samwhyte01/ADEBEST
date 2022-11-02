@@ -1,0 +1,14 @@
+
+
+.menu-sec {
+    display: flex;
+    flex-direction: column;
+}.top {
+    background:none;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+}
+body{
+    background-image: url("lateef daddy.jpg");
+}
